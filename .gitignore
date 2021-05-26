@@ -1,0 +1,21 @@
+/.idea
+.env
+public_html/laravel_api
+public_html/lumen_api
+public_html/assets/*
+public_html/mix-manifest.json
+public_html/mix-manifest.php
+public_html/dreams_docs
+public_html/opelia/*
+public_html/assetsV2
+frontend/node_modules
+admin_last
+themeforest-20431739-the-royal-hotel-restaurant-booking
+files
+npm-debug.log
+/files/
+/New folder/
+/public_html/
+firebaseAdminSDK/mytable-90673-firebase-adminsdk-lfl16-27b5094b52.json
+firebaseAdminSDK/node_modules/
+admin/app/statics/

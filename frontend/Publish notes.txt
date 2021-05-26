@@ -1,0 +1,4 @@
+* Use Terminal or -preferred- command prompt as administrator located to the application folder.
+* Run the command => npm run build , to create a new build of the project.
+* To serve this buid locally,First we should install the serve libs globally,to do this use the command => npm i -g serve
+* To serve the generated build use the command => serve -s build
